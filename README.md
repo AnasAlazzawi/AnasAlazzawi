@@ -1,7 +1,7 @@
-<h1>👋 Hi, I'm hasan!</h1>
-I am a passionate Web Developer, Designer, and Python Script Writer. With a strong background in creating dynamic and visually appealing web applications, I enjoy turning complex problems into simple, beautiful, and intuitive designs. My expertise in Python scripting allows me to automate tasks and develop efficient solutions.
+<h1>👋 Hi, I'm Anas!</h1>
+I am a passionate Flutter Developer, Designer, and Python Script Writer. With a strong background in creating dynamic and visually appealing web applications, I enjoy turning complex problems into simple, beautiful, and intuitive designs. My expertise in Python scripting allows me to automate tasks and develop efficient solutions.
 👩🏻‍💻 Mechtronics Engineer<br/>
-👩🏻‍🎓 Studied control and system engineering at <a href="https://en.uobaghdad.edu.iq/"target="_blank">university of Baghdad 2022-2026-iraq</a><br/>
+👩🏻‍🎓 Studied Mechtronics engineering at <a href="https://en.uobaghdad.edu.iq/"target="_blank">university of Baghdad 2022-2026-iraq</a><br/>
 🌱 I’m currently learning Ai.<br/>
  📫 How to reach me <a href="mailto:anasfiras0044@gmail.com">anasfiras0044@gmail.com</a>
 
