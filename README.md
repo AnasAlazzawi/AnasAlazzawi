@@ -20,7 +20,6 @@ I am a passionate Flutter Developer, Designer, and Python Script Writer. With a 
 <a href="https://www.udemy.com/certificate/UC-0601c035-95bd-4030-903f-b4d16d59f46a/">Python Certification</a>
 ## Personal accounts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-firas-404453355/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/an.f24/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://anasfiras.me/)
 ## 🏆GitHub Stats
