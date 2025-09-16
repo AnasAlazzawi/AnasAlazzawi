@@ -19,7 +19,7 @@ I am a passionate Flutter Developer, Designer, and Python Script Writer. With a 
 <a href="https://www.udemy.com/certificate/UC-0601c035-95bd-4030-903f-b4d16d59f46a/">Dart Certification</a><br>
 <a href="https://www.udemy.com/certificate/UC-0601c035-95bd-4030-903f-b4d16d59f46a/">Python Certification</a>
 ## Personal accounts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D8%A7%D9%86%D8%B3-%D9%81%D8%B1%D8%A7%D8%B3-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%B7%D9%84%D8%A8-404453355/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/%D8%A7%D9%86%D8%B3-%D9%81%D8%B1%D8%A7%D8%B3-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%85%D8%B7%D9%84%D8%A8-404453355/](https://www.linkedin.com/in/anas-firas-404453355/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/an.f24/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://anasfiras.me/)
 ## 🏆GitHub Stats
